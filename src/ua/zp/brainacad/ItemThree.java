@@ -7,8 +7,8 @@ public class ItemThree {
      * @author Horypavlovskyi
      */
     public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("W   o   r   l   d");
+        System.out.println("H\ne\nl\nl\no");
+        System.out.println("W\to\tr\tl\td");
 
     }
 }
